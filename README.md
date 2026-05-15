@@ -1,2 +1,2 @@
-# inflation-forecast
-A multivariate Vector Autoregression (VAR) model forecasting Saudi Arabia's Consumer Price Index (CPI) for 2026. Incorporates WPI, Global FPI, Brent Crude, and M2 money supply with complete diagnostic testing (IRF/FEVD).
+Saudi Arabia CPI Nowcasting & Forecasting (2026)
+This repository contains a complete econometric pipeline for forecasting Saudi Arabia's Consumer Price Index (CPI) through the end of 2026. Utilizing a Vector Autoregression (VAR) framework, the model analyzes the dynamic interactions between domestic inflation, Wholesale Price Index (WPI), Global Food Price Index (FPI), Brent Crude oil prices, and M2 money supply. The project includes comprehensive data transformations, unit root testing (ADF), optimal lag selection, Impulse Response Functions (IRF), and Forecast Error Variance Decomposition (FEVD) to isolate the primary drivers of domestic inflation.
