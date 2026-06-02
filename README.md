@@ -1,2 +1,4 @@
+Complete code: https://nbviewer.org/github/Abdulaziz-Jamaan/inflation-forecast/blob/main/Inflation_Model.ipynb
+
 Saudi Arabia CPI Nowcasting & Forecasting (2026)
 This repository contains a complete econometric pipeline for forecasting Saudi Arabia's Consumer Price Index (CPI) through the end of 2026. Utilizing a Vector Autoregression (VAR) framework, the model analyzes the dynamic interactions between domestic inflation, Wholesale Price Index (WPI), Global Food Price Index (FPI), Brent Crude oil prices, and M2 money supply. The project includes comprehensive data transformations, unit root testing (ADF), optimal lag selection, Impulse Response Functions (IRF), and Forecast Error Variance Decomposition (FEVD) to isolate the primary drivers of domestic inflation.
